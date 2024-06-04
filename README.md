@@ -74,6 +74,11 @@ Do you want to proceed with the download? (yes/no): yes
 Downloaded and converted: https://www.youtube.com/watch?v=xxxxxxxxxxx
 ...
 ```
+## Acknowledge
 
+- [**Spotipy**](https://spotipy.readthedocs.io/en/2.24.0/#) for Spotify API integrations
+- [**yt-dlp**](https://github.com/yt-dlp/yt-dlp) for downloading YouTube videos
+- [**Pydub**](https://github.com/jiaaro/pydub) for audio processing
+- [**python-dotenv**](https://github.com/theskumar/python-dotenv) for managing environment variables
 
 
