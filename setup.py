@@ -19,9 +19,9 @@ setup(
     description='A CLI tool to download Spotify playlists as YouTube MP3s',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    author='Your Name',
-    author_email='your.email@example.com',
-    url='https://github.com/yourusername/sp2yt',  # Replace with your GitHub repo
+    author='Nilupul Pathum',
+    author_email='n.pathumliyanarachchi@gmail.com',
+    url='https://github.com/npathum2004/sp2yt',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
